@@ -22,6 +22,7 @@ Benefits of the bootcamp:
 Project Participants
 ====================
 
+* Brian Short
 * Tyler Fitch
 * Jeff Korthuis
 * Daniel Rich
